@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 if sys.flags.interactive:
     plt.ion()
 
-from splrand.pdf import ProbabilityDensityFunction
+from Splrand.pdf import ProbabilityDensityFunction
 
 
 class testPdf(unittest.TestCase):
