@@ -1,1 +1,1 @@
-from splrand.version import __version__
+from Splrand.version import __version__
